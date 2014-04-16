@@ -3,5 +3,5 @@ var $container = $('#container');
 $container.isotope({
   // options
   itemSelector: '.item',
-  layoutMode: 'fitRows'
+  layoutMode: 'vertical'
 });
